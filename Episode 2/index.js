@@ -9,7 +9,7 @@ app.listen(port, () => console.log(`Example app listening at http://localhost:${
 const dbd = require("dbd.js")
  
 const bot = new dbd.Bot({
-token: "ODI1MjM5MTg4NTg0NjYwOTkz.YF7B4g.XZR9GHKuoVX249platTwWu6X6EY", 
+token: "BOT-TOKEN-HERE", 
 prefix: "!z" 
 })
  
